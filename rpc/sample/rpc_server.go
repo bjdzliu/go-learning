@@ -1,4 +1,4 @@
-package example
+package main
 
 import (
 	"errors"
@@ -9,7 +9,6 @@ import (
 	"os"
 	"net/http"
 )
-
 
 // 算数运算结构体
 type Arith struct {
